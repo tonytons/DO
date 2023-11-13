@@ -1,0 +1,14 @@
+/* Exemple basique de style pour le menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.active {
+  font-weight: bold;
+}
